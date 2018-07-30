@@ -13,16 +13,16 @@ make all -j4
 make matcaffe
 ```
 ### Download the code and model
-3. Download the code. 
+1. Download the code. 
 ```
 git clone https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition.git
 ```
-4. Download the pretrained model and put it in the root code. 
+2. Download the pretrained model and put it in the root code. 
 
 The model could be download from [Baiduyun](https://pan.baidu.com/s/19FHYCmDCAKjgNmJVMOvJgA). password: dmo1 
 
 ### run the demo
-5. Extract the features of Face images. We provide an example of Chow Yun Fat and a stand-in for him.
+1. Extract the features of Face images. We provide an example of Chow Yun Fat and a stand-in for him.
 
 As we provide the related images and in-process data, you could run extract_zhou.m and then run generate_zhou.m to get the result from scratch, or you could either run generate_zhou.m using some in-process data. 
 
@@ -35,6 +35,6 @@ or
 ```
 matlab generate_zhou.m
 ```
-The result should be like as follows.
+2. The result should be like as follows.
 
 ![Image of zhou](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/zhou.jpg)
