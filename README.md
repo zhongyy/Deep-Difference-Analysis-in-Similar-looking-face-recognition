@@ -35,6 +35,6 @@ matlab generate_zhou.m
 ```
 matlab generate_zhou.m
 ```
-2. The result should be like as follows.
+3. The result should be like as follows.
 
 ![Image of zhou](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/zhou.jpg)
