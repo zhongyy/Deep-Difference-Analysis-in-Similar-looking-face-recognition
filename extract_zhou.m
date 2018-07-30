@@ -1,8 +1,8 @@
 % extract features from the network
 clear;clc;
 addpath('/home/zhongyaoyao/caffe-master/matlab'); % change your own caffe path
-net_weights = ['/home/zhongyaoyao/caffe-master/examples/zhou_ICPR/model_iter_33000.caffemodel'];
-net_model = ['/home/zhongyaoyao/caffe-master/examples/zhou_ICPR/deployNEW.prototxt'];
+net_weights = ['model_iter_33000.caffemodel'];
+net_model = ['deployNEW.prototxt'];
 caffe.set_mode_gpu();
 net = caffe.Net(net_model, net_weights, 'test'); 
 
