@@ -1,5 +1,5 @@
 # Deep-Difference-Analysis-in-Similar-looking-face-recognition
-This is the code of ICPR 2018 paper《Deep Difference Analysis in Similar-looking Face recognition》.
+This is the code of ICPR 2018 paper《Deep Difference Analysis in Similar-looking Face Recognition》.
 
 Using this code, you can visualize the difference in similar-looking Faces. 
 That is, we find the most different region between two similar-looking Faces judged by the network.   
