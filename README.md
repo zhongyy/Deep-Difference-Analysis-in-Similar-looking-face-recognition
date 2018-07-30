@@ -1,6 +1,8 @@
 # Deep-Difference-Analysis-in-Similar-looking-face-recognition
 This is the code of ICPR 2018 paper《Deep Difference Analysis in Similar-looking Face recognition》.
-Using this code, you can visualize the difference in similar-looking Faces. That is, we find the most different region between two similar-looking Faces judged by the network.   
+
+Using this code, you can visualize the difference in similar-looking Faces. 
+That is, we find the most different region between two similar-looking Faces judged by the network.   
 
 # Usage Instructions
 ### Install caffe
@@ -23,4 +25,5 @@ or
 matlab generate_zhou.m
 ```
 The result should be like as follows.
+
 ![Image of zhou](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/zhou.jpg)
