@@ -1,6 +1,4 @@
 # Deep-Difference-Analysis-in-Similar-looking-face-recognition
-Code of paper《Deep Difference Analysis in Similar-looking Face recognition》
-
 This is the code of paper《Deep Difference Analysis in Similar-looking Face recognition》.
 
 Using this code, you can visualize the difference between similar-looking Faces. 
@@ -25,4 +23,4 @@ or
 matlab generate_zhou.m
 ```
 The result should be like as follows.
-![Image of 22](https://github.com/zhongyy/interpretable-face/blob/master/22.jpg)
+![Image of zhou](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/zhou.jpg)
