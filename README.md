@@ -23,7 +23,7 @@ The model could be download from [Baiduyun](https://pan.baidu.com/s/19FHYCmDCAKj
 
 ### run the demo 
 
-## We provide an example of Chow Yun Fat and a stand-in for him. Using the code, you get the result shown in paper Figure 2.
+#### We provide an example of Chow Yun Fat and a stand-in for him. Using the code, you get the result shown in paper Figure 2.
 
 1. Extract the features of Face images.
 
@@ -44,7 +44,7 @@ matlab generate_zhou.m
 
 ### To reproduce Figure 4 in the paper
 
-## We provide the aligned images. This result is shown in paper Figure 4.
+#### We provide the aligned images. This result is shown in paper Figure 4.
 
 1. Extract the features of Face images. 
 
@@ -60,4 +60,5 @@ matlab generate.m
 matlab generate.m
 ```
 3. The result should be like as follows.
+
 ![Images](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/zhou.jpg)
