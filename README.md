@@ -62,4 +62,9 @@ matlab generate.m
 3. The result should be like as follows.
 
 ![Images](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/Result/1.jpg)
+![Images](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/Result/4.jpg)
 ![Images](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/Result/10.jpg)
+
+![Images](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/Result/13.jpg)
+![Images](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/Result/14.jpg)
+![Images](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/Result/15.jpg)
