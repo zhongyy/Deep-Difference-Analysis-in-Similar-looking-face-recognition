@@ -61,4 +61,5 @@ matlab generate.m
 ```
 3. The result should be like as follows.
 
-![Images](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/zhou.jpg)
+![Images](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/Result/1.jpg)
+![Images](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/Result/10.jpg)
