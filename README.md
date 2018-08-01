@@ -21,8 +21,11 @@ git clone https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking
 
 The model could be download from [Baiduyun](https://pan.baidu.com/s/19FHYCmDCAKjgNmJVMOvJgA). password: dmo1 
 
-### run the demo
-1. Extract the features of Face images. We provide an example of Chow Yun Fat and a stand-in for him.
+### run the demo 
+
+## We provide an example of Chow Yun Fat and a stand-in for him. Using the code, you get the result shown in paper Figure 2.
+
+1. Extract the features of Face images.
 
 As we provide the related images and in-process data, you could run extract_zhou.m and then run generate_zhou.m to get the result from scratch. 
 
@@ -38,3 +41,23 @@ matlab generate_zhou.m
 3. The result should be like as follows.
 
 ![Image of zhou](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/zhou.jpg)
+
+### To reproduce Figure 4 in the paper
+
+## We provide the aligned images. This result is shown in paper Figure 4.
+
+1. Extract the features of Face images. 
+
+As we provide the related images and in-process data, you could run extract.m and then run generate.m to get the result from scratch. 
+
+Note that some code related to your own caffe path should be changed. 
+```
+matlab extract.m
+matlab generate.m
+```
+2. If it is hard for you to run feature extraction code related to Matcaffe, you can run generate.m using some in-process data. 
+```
+matlab generate.m
+```
+3. The result should be like as follows.
+![Images](https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking-face-recognition/blob/master/zhou.jpg)
