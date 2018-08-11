@@ -19,7 +19,8 @@ git clone https://github.com/zhongyy/Deep-Difference-Analysis-in-Similar-looking
 ```
 2. Download the pretrained model and put it in the root fold. 
 
-The model could be download from [Baiduyun](https://pan.baidu.com/s/19FHYCmDCAKjgNmJVMOvJgA). password: dmo1 
+The model could be download from [Baidu Netdisk](https://pan.baidu.com/s/19FHYCmDCAKjgNmJVMOvJgA). password: dmo1 
+or from[Google drive](https://drive.google.com/drive/folders/1nGv8---4SqeoRNYIIvun0yPsqYXPYHEI?usp=sharing)
 
 ### run the demo 
 
